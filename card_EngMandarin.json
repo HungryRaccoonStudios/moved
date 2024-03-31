@@ -1,0 +1,87 @@
+{
+  "source": "HungryRaccoonStudios/SampleCards",
+  "title": "English-Mandarin Letter/Sound Correlation",
+  "description": "Practice your English-Mandarin letter and sound correlation",
+  "flashcards": [
+    {
+      "cardfront": "你好 -- Nǐhǎo",
+      "cardback": "Hello"
+    },
+    {
+      "cardfront": "谢谢 -- Xièxiè",
+      "cardback": "Thank you"
+    },
+    {
+      "cardfront": "对不起 -- Duìbùqǐ",
+      "cardback": "Sorry"
+    },
+    {
+      "cardfront": "不要 -- Bùyào",
+      "cardback": "Don't"
+    },
+    {
+      "cardfront": "请 -- Qǐng",
+      "cardback": "Please"
+    },
+    {
+      "cardfront": "有 -- Yǒu",
+      "cardback": "Have"
+    },
+    {
+      "cardfront": "没有 -- Méiyǒu",
+      "cardback": "Don't have"
+    },
+    {
+      "cardfront": "禁止 -- Jìnzhǐ",
+      "cardback": "Forbidden"
+    },
+    {
+      "cardfront": "出口 -- Chūkǒu",
+      "cardback": "Exit"
+    },
+    {
+      "cardfront": "入口 -- Rùkǒu",
+      "cardback": "Entrance"
+    },
+    {
+      "cardfront": "停车 -- Tíngchē",
+      "cardback": "Parking"
+    },
+    {
+      "cardfront": "医院 -- Yīyuàn",
+      "cardback": "Hospital"
+    },
+    {
+      "cardfront": "学校 -- Xuéxiào",
+      "cardback": "School"
+    },
+    {
+      "cardfront": "餐厅 -- Cāntīng",
+      "cardback": "Restaurant"
+    },
+    {
+      "cardfront": "商店 -- Shāngdiàn",
+      "cardback": "Store/Shop"
+    },
+    {
+      "cardfront": "电梯 -- Diàntī",
+      "cardback": "Elevator"
+    },
+    {
+      "cardfront": "卫生间 -- Wèishēngjiān",
+      "cardback": "Bathroom"
+    },
+    {
+      "cardfront": "紧急出口 -- Jǐnjí chūkǒu",
+      "cardback": "Emergency Exit"
+    },
+    {
+      "cardfront": "公交车站 -- Gōngjiāochē zhàn",
+      "cardback": "Bus Stop"
+    },
+    {
+      "cardfront": "地铁站 -- Dìtiě zhàn",
+      "cardback": "Subway Station"
+    }
+  ]
+}

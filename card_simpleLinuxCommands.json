@@ -1,0 +1,71 @@
+{
+  "source": "HungryRaccoonStudios/SampleCards",
+  "title": "Linux Command",
+  "description": "Test your knowledge of Linux commands by matching the descriptions with the correct command",
+  "flashcards": [
+    {
+      "cardfront": "List files and directories in the current directory",
+      "cardback": "ls"
+    },
+    {
+      "cardfront": "Change directory",
+      "cardback": "cd"
+    },
+    {
+      "cardfront": "Print the current working directory",
+      "cardback": "pwd"
+    },
+    {
+      "cardfront": "Copy files or directories",
+      "cardback": "cp"
+    },
+    {
+      "cardfront": "Move or rename files or directories",
+      "cardback": "mv"
+    },
+    {
+      "cardfront": "Remove files or directories",
+      "cardback": "rm"
+    },
+    {
+      "cardfront": "Create a new directory",
+      "cardback": "mkdir"
+    },
+    {
+      "cardfront": "Remove an empty directory",
+      "cardback": "rmdir"
+    },
+    {
+      "cardfront": "Display or concatenate the content of files",
+      "cardback": "cat"
+    },
+    {
+      "cardfront": "Search for patterns in files",
+      "cardback": "grep"
+    },
+    {
+      "cardfront": "Change file permissions",
+      "cardback": "chmod"
+    },
+    {
+      "cardfront": "Display information about running processes",
+      "cardback": "ps"
+    },
+    {
+      "cardfront": "Terminate or signal processes",
+      "cardback": "kill"
+    },
+    {
+      "cardfront": "Display disk space usage",
+      "cardback": "df"
+    },
+    {
+      "cardfront": "Display the manual for a command",
+      "cardback": "man"
+    },
+    {
+      "cardfront": "Display command history",
+      "cardback": "history"
+    }
+  ]
+}

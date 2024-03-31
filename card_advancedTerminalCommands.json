@@ -1,0 +1,71 @@
+{
+  "source": "HungryRaccoonStudios/SampleCards",
+  "title": "Advanced Terminal Commands",
+  "description": "Test your knowledge of advanced Linux commands, including Git, Docker, and networking, by matching the descriptions with the correct command.",
+  "flashcards": [
+    {
+      "cardfront": "Show the commit history with a concise graph in Git",
+      "cardback": "git log --all --decorate --oneline --graph"
+    },
+    {
+      "cardfront": "Create a new Git branch and switch to it",
+      "cardback": "git checkout -b [branch_name]"
+    },
+    {
+      "cardfront": "View detailed information about Docker containers",
+      "cardback": "docker inspect [container_id]"
+    },
+    {
+      "cardfront": "Build a Docker image from a Dockerfile",
+      "cardback": "docker build -t [image_name] [path_to_Dockerfile]"
+    },
+    {
+      "cardfront": "Display detailed network information, including IP addresses and ports",
+      "cardback": "ip a"
+    },
+    {
+      "cardfront": "Show the current network connections and listening ports",
+      "cardback": "netstat -an"
+    },
+    {
+      "cardfront": "Display the routing table",
+      "cardback": "route -n" 
+    },
+    {
+      "cardfront": "Monitor network packet statistics",
+      "cardback": "tcpdump"
+    },
+    {
+      "cardfront": "Check the availability of a network host",
+      "cardback": "ping [host]"
+    },
+    {
+      "cardfront": "Display active network connections and their status",
+      "cardback": "ss"
+    },
+    {
+      "cardfront": "Show the Linux kernel's networking stack information",
+      "cardback": "ethtool -i [interface]"
+    },
+    {
+      "cardfront": "View the contents of a compressed file without extracting it",
+      "cardback": "zcat [file]"
+    },
+    {
+      "cardfront": "View and interact with logs in real-time",
+      "cardback": "tail -f [file]"
+    },
+    {
+      "cardfront": "Search for a specific string in files within a directory",
+      "cardback": "grep -r [pattern] [directory]"
+    },
+    {
+      "cardfront": "Display real-time information about system resource usage",
+      "cardback": "glances"
+    },
+    {
+      "cardfront": "Display detailed information about the system memory",
+      "cardback": "free -h"
+    }
+  ]
+}
